@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TeslaRemontChargeControl</string>
+    <string name="baseUrl">https://owner-api.teslamotors.com/</string>
+</resources>
